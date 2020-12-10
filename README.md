@@ -11,3 +11,9 @@ Submissions for some of the Polkadot Easy Challenges
 ### Challenge 2: Front-End Javascript
 
 [polkadot-challenge-2](polkadot-challenge-2/README.md)
+
+### Challenge 3
+
+### Challenge 4: FRAME Identity
+
+[]()
