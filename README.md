@@ -4,4 +4,10 @@
 
 Submissions for some of the Polkadot Easy Challenges
 
+### Challenge 1: Launch a local Substrate development chain
 
+[polkadot-challenge-1](polkadot-challenge-1/README.md)
+
+### Challenge 2: Front-End Javascript
+
+[polkadot-challenge-2](polkadot-challenge-2/README.md)
