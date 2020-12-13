@@ -14,6 +14,8 @@ Submissions for some of the Polkadot Easy Challenges
 
 ### Challenge 3
 
+[polka-challenge-3](polkadot-challenge-3/README.md)
+
 ### Challenge 4: FRAME Identity
 
 [polkadot-challenge-4](polkadot-challenge-4/README.md)
