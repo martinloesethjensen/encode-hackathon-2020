@@ -12,7 +12,7 @@ Submissions for some of the Polkadot Easy Challenges
 
 [polkadot-challenge-2](polkadot-challenge-2/README.md)
 
-### Challenge 3
+### Challenge 3: Run A Polkadot Node And Add It To Telemetry
 
 [polka-challenge-3](polkadot-challenge-3/README.md)
 
